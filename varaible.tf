@@ -1,4 +1,4 @@
 variable "ec2_instance"{
-type = "string"
+type = string
 default = "us-east-1"
 }
